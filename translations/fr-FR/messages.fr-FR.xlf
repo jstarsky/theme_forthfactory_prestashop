@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\posbestsellers\posbestsellers.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="93dbc0667b99fdfc52967b81c184e376">
+        <source>bestsellers products</source>
+        <target>bestsellers products</target>
+        <note>Context:
+File: C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\posbestsellers\posbestsellers.tpl:4</note>
+      </trans-unit>
+      <trans-unit id="f7be84d6809317a6eb0ff3823a936800">
+        <source>No best sellers at this time</source>
+        <target>No best sellers at this time</target>
+        <note>Context:
+File: C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\posbestsellers\posbestsellers.tpl:115</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\posspecialproducts\views\templates\admin\_configure\helpers\form\form.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="92fbf0e5d97b8afd7e73126b52bdc4bb">
+        <source>Choose a file</source>
+        <target>Choisissez un fichier</target>
+        <note>Context:
+File: C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\posspecialproducts\views\templates\admin\_configure\helpers\form\form.tpl:176</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\poslistcategories\views\templates\hook\list.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="814196c32531e51656e1acc11ffaca27">
+        <source>Items list</source>
+        <target>Items list</target>
+        <note>Context:
+File: C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\poslistcategories\views\templates\hook\list.tpl:25</note>
+      </trans-unit>
+      <trans-unit id="ef61fb324d729c341ea8ab9901e23566">
+        <source>Add new</source>
+        <target>Ajouter</target>
+        <note>Context:
+File: C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\poslistcategories\views\templates\hook\list.tpl:28</note>
+      </trans-unit>
+      <trans-unit id="7dce122004969d56ae2e0245cb754d35">
+        <source>Edit</source>
+        <target>Modifier</target>
+        <note>Context:
+File: C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\poslistcategories\views\templates\hook\list.tpl:56</note>
+      </trans-unit>
+      <trans-unit id="f2a6c498fb90ee345d997f888fce3b18">
+        <source>Delete</source>
+        <target>Supprimer</target>
+        <note>Context:
+File: C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\poslistcategories\views\templates\hook\list.tpl:61</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\poslistcategories\views\templates\hook\poslistcategories.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="6ebe93986df6cbbea95354a60e6aa8e4">
+        <source>Top Categories This Week</source>
+        <target>Top Categories This Week</target>
+        <note>Context:
+File: C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\poslistcategories\views\templates\hook\poslistcategories.tpl:29</note>
+      </trans-unit>
+      <trans-unit id="1665892c5d9c2f721bcb5acb6406b2f4">
+        <source>Aliquam eget consectetuer habitasse interdum.</source>
+        <target>Aliquam eget consectetuer habitasse interdum.</target>
+        <note>Context:
+File: C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\poslistcategories\views\templates\hook\poslistcategories.tpl:30</note>
+      </trans-unit>
+      <trans-unit id="86024cad1e83101d97359d7351051156">
+        <source>products</source>
+        <target>products</target>
+        <note>Context:
+File: C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\poslistcategories\views\templates\hook\poslistcategories.tpl:51</note>
+      </trans-unit>
+      <trans-unit id="0a18f0aa51f30f1107495bf639caf16c">
+        <source>Shop Now</source>
+        <target>Shop Now</target>
+        <note>Context:
+File: C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\poslistcategories\views\templates\hook\poslistcategories.tpl:52</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

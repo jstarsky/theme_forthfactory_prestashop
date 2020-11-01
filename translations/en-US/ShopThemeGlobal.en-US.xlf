@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\ps_emailsubscription\views\templates\hook\ps_emailsubscription.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="a45c75dc408d0d95c853c1c8c79f9bc5">
+        <source>Special Ofers</source>
+        <target>Special Ofers</target>
+        <note>Context:
+File: C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\ps_emailsubscription\views\templates\hook\ps_emailsubscription.tpl:28</note>
+      </trans-unit>
+      <trans-unit id="f371fb3d1ab7f56f4a897956d2ece5dd">
+        <source> For Subscribers</source>
+        <target> For Subscribers</target>
+        <note>Context:
+File: C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\ps_emailsubscription\views\templates\hook\ps_emailsubscription.tpl:28</note>
+      </trans-unit>
+      <trans-unit id="7018e152cf5aefcc76379e2228efdb6e">
+        <source>Ten Percent Member Discount</source>
+        <target>Ten Percent Member Discount</target>
+        <note>Context:
+File: C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\ps_emailsubscription\views\templates\hook\ps_emailsubscription.tpl:29</note>
+      </trans-unit>
+      <trans-unit id="c5f74556368537aa5feae7776305f388">
+        <source>Subscribe to our newsletters now and stay up to date with new collections, the latest lookbooks and exclusive offers.</source>
+        <target>Subscribe to our newsletters now and stay up to date with new collections, the latest lookbooks and exclusive offers.</target>
+        <note>Context:
+File: C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\ps_emailsubscription\views\templates\hook\ps_emailsubscription.tpl:30</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\ps_socialfollow\ps_socialfollow.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="c3527078bab902efe0e19ac9875b795d">
+        <source>Follow Us</source>
+        <target>Follow Us</target>
+        <note>Context:
+File: C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\modules\ps_socialfollow\ps_socialfollow.tpl:28</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\templates\_partials\header.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="8d6ab84ca2af9fccd4e4048694176ebf">
+        <source>menu</source>
+        <target>menu</target>
+        <note>Context:
+File: C:\xampp\htdocs\posthemes\pos_jico\themes\theme_jico2\templates\_partials\header.tpl:40</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
